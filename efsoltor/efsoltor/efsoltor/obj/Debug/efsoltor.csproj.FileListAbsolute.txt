@@ -1,0 +1,10 @@
+C:\Users\Veronica\Desktop\TE\efsoltor\efsoltor\bin\Debug\efsoltor.exe.config
+C:\Users\Veronica\Desktop\TE\efsoltor\efsoltor\bin\Debug\efsoltor.exe
+C:\Users\Veronica\Desktop\TE\efsoltor\efsoltor\bin\Debug\efsoltor.pdb
+C:\Users\Veronica\Desktop\TE\efsoltor\efsoltor\obj\Debug\efsoltor.csprojAssemblyReference.cache
+C:\Users\Veronica\Desktop\TE\efsoltor\efsoltor\obj\Debug\efsoltor.Form1.resources
+C:\Users\Veronica\Desktop\TE\efsoltor\efsoltor\obj\Debug\efsoltor.Properties.Resources.resources
+C:\Users\Veronica\Desktop\TE\efsoltor\efsoltor\obj\Debug\efsoltor.csproj.GenerateResource.cache
+C:\Users\Veronica\Desktop\TE\efsoltor\efsoltor\obj\Debug\efsoltor.csproj.CoreCompileInputs.cache
+C:\Users\Veronica\Desktop\TE\efsoltor\efsoltor\obj\Debug\efsoltor.exe
+C:\Users\Veronica\Desktop\TE\efsoltor\efsoltor\obj\Debug\efsoltor.pdb
