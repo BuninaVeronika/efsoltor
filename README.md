@@ -1,5 +1,11 @@
 # efsoltor
+
+
 Комментарии отсутствуют
+
+
+
+
 Сложение
 public static string Plus(string array)
         {
